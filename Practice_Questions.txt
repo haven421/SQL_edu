@@ -1,0 +1,87 @@
+#1 Look at the contents of the Product Table.
+
+#2 Select the product code and product name in products table.
+
+#3 List each possible product line without duplicates.
+
+#4 Count the number of product lines.
+
+#5 What is the total quantity of all products?
+
+#6 Only show products that belong to a certain product line, such as motorcycles.
+
+#7 What is the total quantity of motorcycles?
+
+#8 List the MSRP and name of products whose MSRP is greater than 100.
+
+#9 What is the minimum credit limit of customers? Maximum?
+
+#10 List the customer(s) whose name starts with 'gift' or 'Gift' and includes 'gift' or 'Gift'.
+
+#11 List the customer name(s) and credit limit for customers with the minimum credit limit. Hint: Subquery.
+
+#12 How many total offices are in Boston, Paris, and Sydney? (Altogether).
+
+#13 How many products does each product line have? Hint: GROUP BY.
+
+#14 What is the total amount of payments per date? Hint: GROUP BY.
+
+#15 Report the sales representative number for each customer name.
+
+#16 Show the customer's name and credit limit for credit limits less than 50,000.
+
+#17 Report customer's name, customer's number, and phone number who live in San Fran.
+
+#18 Report the order numbers that have not been shipped. Hint: <>.
+
+#19 What is the total amount paid by all customers?
+
+#20 How many orders have been placed by number 124?
+
+#21 Report those payments greater than $100,000 or less than $2,000, ordered by amount from highest to lowest.
+
+#22 Report those payments greater than $100,000 ordered by customer number.
+
+#23 List all customers containing 'Network' in their name.
+
+#24 List all customers whose data of state is missing.
+
+#25 List names of products sold by order date, earliest first.
+
+#26 List all the order dates in descending for orders for the '1940 Ford Pickup Truck'.
+
+#27 Which shipped orders have a value greater than $5,000?
+
+#28 List the names of products sold at less than 85% of the MSRP (MSRP*0.85) for shipped orders.
+
+#29 Report products and their buy prices that have been sold with a markup of 100% or more. Meaning, where the priceEach is listed at least twice the buyPrice.
+
+#30 List products ordered on a Monday. Do not list duplicates.
+
+#31 Show the quantity on hand and the quantity ordered for products listed on 'On Hold' orders.
+
+#32. Report the account rep for each customer. Use join table.
+
+#33. Report total payments for Mini Wheels Co. Use Join table and WHERE.
+
+#34. Who are the employees in Boston? Use join table and WHERE.
+
+#35. Report those payments, with customer name, greater than $100,000. Sort the report so the customer who made the highest payment appears first. Use join table and WHERE.
+
+#36. Report the products that have not been sold. Use sub-query. What products do not have order numbers.
+
+#37. Report the total payments by date. Use GROUP BY.
+
+#38. How many orders have been placed by Herkku Gifts? Use Join and WHERE
+
+#38a. How many orders have been placed by each customer? Use JOIN and GROUP BY.
+
+#39. List Customer Name, Customer Number and the amount paid by each customer. Sort results from highest to lowest total amount. Use JOIN and GROUP BY.
+
+#40. List the total value of each 'On Hold' order. Use JOIN, WHERE and GROUP BY.
+
+#41. Report the number of 'Shipped' orders for each customer (with customer name.) Use JOIN, WHERE and GROUP BY.
+
+#42. Report the number of orders for each customer who has at least 5 orders. Use JOIN, GROUP BY, and HAVING.
+
+#43. Report the number of 'Shipped' orders for each customer who has more than 10 'Shipped' orders. Use JOIN, WHERE , GROUP BY and HAVING.
