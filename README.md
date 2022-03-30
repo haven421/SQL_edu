@@ -2,7 +2,7 @@
 SQL info & practice using MySQL Workbench classicmodels
 
 ### Why this repo is useful
-Utilizes MySQL Workbench classicmodels data set
+Utilizes public MySQL Workbench classicmodels data set
 
 ### How users can start / receive help
 - Download MySQL Installer [link](https://dev.mysql.com/downloads/installer/)
